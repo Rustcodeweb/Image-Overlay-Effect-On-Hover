@@ -1,4 +1,4 @@
-# Overlay-Effect-On-Image
+# Image-Overlay-Effect-On-Hover
 
-### Overlay Effect On Image | HTML & CSS
+### Image Overlay Effect On Hover | HTML & CSS
 [YouTube Video](https://youtu.be/2qrqXnjbF24)
